@@ -1,0 +1,6 @@
+.venv/
+Ai Chatbot/
+__pycache__/
+*.pyc
+.env
+.env.*
